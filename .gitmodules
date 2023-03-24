@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TAR"]
+	path = TAR
+	url = https://github.com/cran/TAR
+	shallow = true
+	registered = true
